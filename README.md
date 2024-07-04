@@ -1,6 +1,6 @@
 Hi, I'm Melodie, and my pronouns are she and her!
 
-I am currently a master student in the robotics program at the University of Michigan, doing some work under Dr. Patricia Alves-Oliveira. We're working on creating innovative methods to create sounds using robots. What that specifically means may vary, but includes things like using robots as performance tools and simply syncing robotic movement movement in sound design.
+I am currently working on creating innovative methods to create sounds using robots. What that specifically means may vary, but includes things like using robots as performance tools and simply syncing robotic movement with movement in sound design.
 
 I'm particularly interested in open source projects, especially related to music, making things, and biomedical engineering. I come from the world of mechanical engineering, so that's where my expertise lies, but I'm working on becoming a better coder. 
 
