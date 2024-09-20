@@ -1,4 +1,4 @@
-Hi, I'm Melodie, and my pronouns are she and her!
+Hi, I'm Melodie, and my pronouns are she/her or they/them!
 
 I am currently working on creating innovative methods to create sounds using robots. What that specifically means may vary, but includes things like using robots as performance tools and simply syncing robotic movement with movement in sound design.
 
